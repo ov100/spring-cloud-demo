@@ -1,0 +1,11 @@
+/.idea
+/*/*.iml
+/*/.idea
+/*/target
+/*.log
+/admin-service/*.iml
+/api/*.iml
+/*.iml
+/logs/*.log
+/api/logs
+/*/logs
